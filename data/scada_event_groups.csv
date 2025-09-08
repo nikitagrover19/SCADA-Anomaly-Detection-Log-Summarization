@@ -1,0 +1,2 @@
+Event Window,Num Anomalies,Max |σ|,Severity,Parameters
+2014-12-20 05:44:00,1468,2.7,Critical,"840: Raichur-SLPR1(MVAR):Analog (σ=2.08, Minor); SLPR-RACHR1 (MVAR):Analog (σ=-2.18, Minor); SLPR7:Voltage C:Magnitude (σ=-2.14, Minor); 880: Raichur-SLPR1(MVAR):Analog (σ=2.06, Minor); SLPR-RACHR1 (MVAR):Analog (σ=-2.17, Minor); SLPR7:Voltage A:Magnitude (σ=-2.0, Info); SLPR7:Voltage B:Magnitude (σ=-2.0, Info); SLPR7:Voltage C:Magnitude (σ=-2.16, Minor); 920: Raichur-SLPR1(MVAR):Analog (σ=2.05, Minor); SLPR-RACHR1 (MVAR):Analog (σ=-2.17, Minor) ..."
